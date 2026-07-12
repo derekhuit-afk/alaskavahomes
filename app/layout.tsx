@@ -2,6 +2,7 @@ import type { Metadata } from 'next';
 import './globals.css';
 
 export const metadata: Metadata = {
+  verification: { google: "-RqTiM9DiuuUk60yjFrKoiIdQFMu1XMPqta9Ip64sH0" },
   title: 'Alaska VA Home Loans | AlaskaVAHomes.com | Derek Huit NMLS #203980',
   description:
     'VA home loans in Alaska — Anchorage, JBER, Wasilla, Eielson, Fairbanks. Zero down, no PMI, seller-paid closing allowed. 18 years experience, $1B+ originated. Powered by Cardinal Financial (NMLS #66247).',
